@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gems id = "1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.example.com/gems"
+         xsi:schemaLocation="http://www.example.com/gems Gems_scheme.xsd">
+    <gem>
+        <id>1</id>
+		<name>Алмаз</name>
+		<preciousness>Драгоценный</preciousness>
+		<origin>Россия, Австралия, Канада, Бразилия, ЮАР</origin>
+		<visualParameters>
+			<color>Безцветный</color>
+			<transparency>70</transparency>
+			<facets>2-102</facets>
+		</visualParameters>
+		<value>1-530</value>
+    </gem>
+     <gem>
+        <id>2</id>
+		<name>Изумруд</name>
+		<preciousness>Драгоценный</preciousness>
+		<origin>Россия</origin>
+		<visualParameters>
+			<color>Зеленый</color>
+			<transparency>67</transparency>
+			<facets>2-98</facets>
+		</visualParameters>
+		<value>950</value>
+    </gem>
+	 <gem>
+        <id>3</id>
+		<name>Сапфир</name>
+		<preciousness>Драгоценный</preciousness>
+		<origin>Россия, Китай</origin>
+		<visualParameters>
+			<color>Синий</color>
+			<transparency>67</transparency>
+			<facets>2-58</facets>
+		</visualParameters>
+		<value>590</value>
+    </gem>
+	 <gem>
+        <id>4</id>
+		<name>Рубин</name>
+		<preciousness>Драгоценный</preciousness>
+		<origin>Россия</origin>
+		<visualParameters>
+			<color>Красный</color>
+			<transparency>69</transparency>
+			<facets>2-68</facets>
+		</visualParameters>
+		<value>780</value>
+    </gem>
+	 <gem>
+        <id>5</id>
+		<name>Александрит</name>
+		<preciousness>Драгоценный</preciousness>
+		<origin>США</origin>
+		<visualParameters>
+			<color>Фиолетовый</color>
+			<transparency>60</transparency>
+			<facets>2-58</facets>
+		</visualParameters>
+		<value>450</value>
+    </gem>
+	 <gem>
+        <id>6</id>
+		<name>Аместист</name>
+		<preciousness>Полудрагоценный</preciousness>
+		<origin>Россия</origin>
+		<visualParameters>
+			<color>Фиолетовый</color>
+			<transparency>57</transparency>
+			<facets>2-58</facets>
+		</visualParameters>
+		<value>340</value>
+    </gem>
+	 <gem>
+        <id>7</id>
+		<name>Аквамарин</name>
+		<preciousness>Полудрагоценный</preciousness>
+		<origin>Бразилия</origin>
+		<visualParameters>
+			<color>Голубой</color>
+			<transparency>56</transparency>
+			<facets>2-58</facets>
+		</visualParameters>
+		<value>780</value>
+    </gem>
+	<gem>
+        <id>8</id>
+		<name>Гранат</name>
+		<preciousness>Полудрагоценный</preciousness>
+		<origin>Россия, Бразилия</origin>
+		<visualParameters>
+			<color>Красный</color>
+			<transparency>59</transparency>
+			<facets>2-58</facets>
+		</visualParameters>
+		<value>1002</value>
+    </gem>
+	 <gem>
+        <id>9</id>
+		<name>Горный хрусталь</name>
+		<preciousness>Полудрагоценный</preciousness>
+		<origin>Россия, Китай</origin>
+		<visualParameters>
+			<color>Безцветный</color>
+			<transparency>40</transparency>
+			<facets>2-58</facets>
+		</visualParameters>
+		<value>970</value>
+    </gem>
+	 <gem>
+        <id>10</id>
+		<name>Топаз</name>
+		<preciousness>Полудрагоценный</preciousness>
+		<origin>Бразилия, США</origin>
+		<visualParameters>
+			<color>Голубой</color>
+			<transparency>58</transparency>
+			<facets>2-58</facets>
+		</visualParameters>
+		<value>670</value>
+    </gem>
+	
+	   
+
+</gems>

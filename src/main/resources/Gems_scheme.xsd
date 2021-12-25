@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/gems"
+        xmlns:tns="http://www.example.com/gems"
+        elementFormDefault="qualified">
+
+<element name = "gems">
+	<complexType>
+		<sequence>
+			<element name = "gem">
+				<complexType>
+					<sequence>
+						<element name="id" type="int"/>
+						<element name="name" type="string"/>
+						<element name="preciousness" type="string"/>
+						<element name="origin" type="string"/>
+						<element name="visualParameters" >
+							<complexType>
+								<sequence>
+									<element name="color" type="string"/>
+									<element name="transparency" type="int"/>
+									<element name="facets" type="string"/>
+								</sequence>
+							</complexType>
+						</element>
+						<element name="value" type="string"/>
+					</sequence>
+				</complexType>
+		
+			</element>
+		
+		</sequence>
+		<attribute name = "id"  use= "required"/>
+	</complexType>
+	
+</element>
+</schema>
